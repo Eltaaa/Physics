@@ -11,7 +11,7 @@ int main(){
         b=temp; 
     }
  
- 
+
  
     if (c < a && a < b ){
         printf("%.2lf", a);
